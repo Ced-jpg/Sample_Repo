@@ -1,0 +1,8 @@
+table, tr, td {
+
+border: 2px solid;
+}
+th.first {
+	border: 2px solid;
+	font-family: cursive;
+}

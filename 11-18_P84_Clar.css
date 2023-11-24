@@ -1,0 +1,7 @@
+body {background-color: royalblue;}
+div{ font-family: sans-serif;}
+#eagle {text-align: center; color: white; background-color: black; border: 10px dashed white; width: 99%}
+#fred {text-align: center; font-weight: 100;}
+#text {display: inline-block;}
+#bird {display: inline-block;}
+img	{width: 450px;}
